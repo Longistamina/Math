@@ -1,1 +1,1 @@
-# This is my Math notes using RNote
+# This is my Math notes using Rnote
